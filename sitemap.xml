@@ -1,20 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mcates.github.io/categories/</loc>
+    <loc>https://mcates.github.io/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mcates.github.io/</loc>
+    <loc>https://mcates.github.io/project/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcates.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://mcates.github.io/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcates.github.io/</loc>
   </url>
   
 </urlset>
